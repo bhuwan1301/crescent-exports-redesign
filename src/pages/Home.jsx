@@ -29,7 +29,7 @@ const Home = () => {
       transition={{ duration: 1 }}
       >
         <h1>Exporting high quality, sustainable and eco friendly products since 1996.</h1>
-        <img src={Logo} alt="Picture" />
+        <img src="https://i.postimg.cc/W1mVHVVJ/DSC00804.jpg" alt="Picture" />
       </motion.div>
 
       <motion.div 

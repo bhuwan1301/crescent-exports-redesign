@@ -11,6 +11,7 @@ $button-bg-active: #854413;
 
 .homeintro {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
@@ -18,7 +19,7 @@ $button-bg-active: #854413;
     margin-bottom: 25px;
 
     h1 {
-        flex: 1;
+        // flex: 1;
         margin-right: 20px;
         text-align: center;
         font-size: 50px;
@@ -26,9 +27,11 @@ $button-bg-active: #854413;
     }
 
     img {
-        flex: 1;
-        max-width: 25%;
+        // flex: 1;
+        max-width: 40%;
         height: auto;
+        border-radius: 30px;
+        border: 2px solid white;
     }
 }
 
@@ -100,6 +103,11 @@ $button-bg-active: #854413;
                 font-size: 30px;
                 width: 100%;
                 max-width: 100%;
+                margin-bottom: 20px;
+            }
+            img{
+                width: 80%;
+                max-width: 80%;
             }
         }
 
