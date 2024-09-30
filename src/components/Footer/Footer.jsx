@@ -1,10 +1,13 @@
 import { Input } from "@/components/ui/input";
 import { AiFillInstagram } from "react-icons/ai";
-import { FaFacebook, FaYoutube } from "react-icons/fa";
+import { FaFacebook, FaYoutube,FaPhone, FaMobile, FaMailBulk, FaMailchimp } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import Logo from "@/assets/images/logo.jpg";
+import { Box, Typography } from '@mui/material';
+import { Icon, Mail } from "lucide-react";
 
 const Footer = () => {
+  const phoneNumber = "(123) 456-7890";
   return (
     <div className="dark">
     <footer className="bg-white dark:bg-black/5 px-12">
@@ -28,43 +31,43 @@ const Footer = () => {
      
           </div>
 
-          <div className="grid grid-cols-2 gap-8 sm:grid-cols-2 sm:col-span-2 md:col-span-2 lg:col-span-2 lg:grid-cols-2 justify-center">
+          <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 sm:col-span-2 md:col-span-2 lg:col-span-2 lg:grid-cols-2 justify-center">
             <div>
-              <p className="font-medium text-gray-900 dark:text-white text-xl">
-                Categories
-              </p>
+            <Box display="flex" alignItems="center" fontSize="2vw">
+            <FaMobile style={{ marginRight: 8, marginTop: 20 }} />
+            <Typography variant="body1">
+              <a href="tel:+91 9810326719">+91 9810326719</a>
+            </Typography>
+            </Box>
 
-              <ul className="mt-6 space-y-4 text-sm">
-                {Array.from({ length: 5 }).map((_, index) => (
-                  <li key={index}>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75 dark:text-gray-200"
-                    >
-                      Category {index + 1}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
+            <Box display="flex" alignItems="center" fontSize="2vw">
+            <FaMobile style={{ marginRight: 8, marginTop: 20 }} />
+            <Typography variant="body1">
+              <a href="tel:+91 9953212214">+91 9953212214</a>
+            </Typography>
+            </Box>
+           
+            <Box display="flex" alignItems="center" fontSize="2vw">
+            <FaPhone style={{ marginRight: 8, marginTop: 20}} />
+            <Typography variant="body1">
+              <a href="tel:011 28525250">011 28525250</a>
+            </Typography>
+            </Box>
 
-            <div>
-              <p className="font-medium text-gray-900 dark:text-white text-xl">
-                Categories
-              </p>
+            <Box display="flex" alignItems="center" fontSize="2vw">
+            <Mail style={{ marginRight: 8, marginTop: 20}} />
+            <Typography variant="body1">
+              <a href="mailto:info@crescentexports.com ">info@crescentexports.com</a>
+            </Typography>
+            </Box>
 
-              <ul className="mt-6 space-y-4 text-sm">
-                {Array.from({ length: 5 }).map((_, index) => (
-                  <li key={index}>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75 dark:text-gray-200"
-                    >
-                      Category {index + 1}
-                    </a>
-                  </li>
-                ))}
-              </ul>
+            <Box display="flex" alignItems="center" fontSize="2vw">
+            <Mail style={{ marginRight: 8, marginTop: 20}} />
+            <Typography variant="body1">
+              <a href="mailto:crescentexport9@gmail.com ">crescentexport9@gmail.com</a>
+            </Typography>
+            </Box>
+
             </div>
 
            
@@ -104,14 +107,8 @@ const Footer = () => {
             <Link to={"/contact"} className="text-gray-500 dark:text-gray-400">
               Contacts
             </Link>
-            <a href="#" className="text-gray-500 dark:text-gray-400">
+            <a href="https://www.instagram.com/crescentexports?igsh=ODBzYzJoaTZ4ZWx6" className="text-gray-500 dark:text-gray-400">
               <AiFillInstagram className="h-6 w-6" />
-            </a>
-            <a href="#" className="text-gray-500 dark:text-gray-400">
-              <FaYoutube className="h-6 w-6" />
-            </a>
-            <a href="#" className="text-gray-500 dark:text-gray-400">
-              <FaFacebook className="h-6 w-6" />
             </a>
           </div>
           <div className="flex gap-4 flex-wrap">
