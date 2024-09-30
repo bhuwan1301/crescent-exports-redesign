@@ -2,12 +2,6 @@ import './home.scss'
 
 import Logo from "@/assets/images/logo.jpg";
 import Pic1 from "@/assets/images/1.jpg";
-import Pic3 from "@/assets/images/6.jpg";
-import Pic4 from "@/assets/product_photos/DSC00639.jpg";
-import Pic5 from "@/assets/product_photos/DSC00653.jpg";
-import Pic6 from "@/assets/product_photos/DSC00668.jpg";
-import Pic7 from "@/assets/product_photos/DSC00681.jpg";
-import Pic8 from "@/assets/product_photos/DSC00704.jpg";
 
 import { motion } from "framer-motion"
 
@@ -97,14 +91,12 @@ const Home = () => {
 
       >
         <SwiperSlide><img className='homeproductspics' src={Pic1} alt="Picture 1" /></SwiperSlide>
-        <SwiperSlide><img className='homeproductspics' src={Pic4} alt="Picture 3" /></SwiperSlide>
-        <SwiperSlide><img className='homeproductspics' src={Pic6} alt="Picture 3" /></SwiperSlide>
-        <SwiperSlide><img className='homeproductspics' src={Pic5} alt="Picture 3" /></SwiperSlide>
-        <SwiperSlide><img className='homeproductspics' src={Pic3} alt="Picture 3" /></SwiperSlide>
-        <SwiperSlide><img className='homeproductspics' src={Pic7} alt="Picture 3" /></SwiperSlide>
-        <SwiperSlide><img className='homeproductspics' src={Pic8} alt="Picture 3" /></SwiperSlide>
-        
-
+        <SwiperSlide><img className='homeproductspics' src="https://i.postimg.cc/VsTzS445/DSC00639.jpg" alt="Picture 1" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src="https://i.postimg.cc/9QHVbM6h/DSC00653.jpg" alt="Picture 1" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src="https://i.postimg.cc/TPC6Tcpd/DSC00655.jpg" alt="Picture 1" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src="https://i.postimg.cc/cHCNC8nQ/DSC00681.jpg" alt="Picture 1" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src="https://i.postimg.cc/zXg8TWP7/DSC00700.jpg" alt="Picture 1" /></SwiperSlide>       
+        <SwiperSlide><img className='homeproductspics' src="https://i.postimg.cc/W1mVHVVJ/DSC00804.jpg" alt="Picture 1" /></SwiperSlide>
       </Swiper>
 
 
