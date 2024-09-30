@@ -2,13 +2,12 @@ import './home.scss'
 
 import Logo from "@/assets/images/logo.jpg";
 import Pic1 from "@/assets/images/1.jpg";
-import Pic2 from "@/assets/images/2.jpg";
-import Pic3 from "@/assets/images/3.jpg";
-import Pic4 from "@/assets/images/4.jpg";
-import Pic5 from "@/assets/images/5.jpg";
-import Pic6 from "@/assets/images/6.jpg";
-import Pic7 from "@/assets/images/7.jpg";
-import Pic8 from "@/assets/images/8.jpg";
+import Pic3 from "@/assets/images/6.jpg";
+import Pic4 from "@/assets/product_photos/DSC00639.jpg";
+import Pic5 from "@/assets/product_photos/DSC00653.jpg";
+import Pic6 from "@/assets/product_photos/DSC00668.jpg";
+import Pic7 from "@/assets/product_photos/DSC00681.jpg";
+import Pic8 from "@/assets/product_photos/DSC00704.jpg";
 
 import { motion } from "framer-motion"
 
@@ -32,8 +31,6 @@ const Home = () => {
       <motion.div 
       className="homeintro"
       initial={{  scale: 0.9, opacity: 0 }}
-      // whileInView={{ opacity: 1, scale: 1 }}
-      // exit={{  scale: 0.9, opacity: 0 }}
       animate = {{scale: 1, opacity: 1}}
       transition={{ duration: 1 }}
       >
@@ -82,8 +79,6 @@ const Home = () => {
         onSlideChange={() => console.log('slide change')}
         onSwiper={(swiper) => console.log(swiper)}
         navigation
-        pagination={{ clickable: true }}
-        scrollbar={{ draggable: true }}
         effect={'coverflow'}
         grabCursor={true}
         centeredSlides={true}
@@ -94,6 +89,7 @@ const Home = () => {
           modifier: 1,
           slideShadows: true,
         }}
+        pagination={true}
         autoplay={{
           delay: 2500,
           disableOnInteraction: false,
@@ -101,13 +97,13 @@ const Home = () => {
 
       >
         <SwiperSlide><img className='homeproductspics' src={Pic1} alt="Picture 1" /></SwiperSlide>
-        {/* <SwiperSlide><img src={Pic2} alt="Picture 2" /></SwiperSlide> */}
-        {/* <SwiperSlide><img src={Pic3} alt="Picture 3" /></SwiperSlide> */}
-        <SwiperSlide><img className='homeproductspics' src={Pic4} alt="Picture 4" /></SwiperSlide>
-        {/* <SwiperSlide><img src={Pic5} alt="Picture 5" /></SwiperSlide> */}
-        <SwiperSlide><img className='homeproductspics' src={Pic6} alt="Picture 6" /></SwiperSlide>
-        {/* <SwiperSlide><img src={Pic7} alt="Picture 7" /></SwiperSlide> */}
-        <SwiperSlide><img className='homeproductspics' src={Pic8} alt="Picture 8" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src={Pic4} alt="Picture 3" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src={Pic6} alt="Picture 3" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src={Pic5} alt="Picture 3" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src={Pic3} alt="Picture 3" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src={Pic7} alt="Picture 3" /></SwiperSlide>
+        <SwiperSlide><img className='homeproductspics' src={Pic8} alt="Picture 3" /></SwiperSlide>
+        
 
       </Swiper>
 
