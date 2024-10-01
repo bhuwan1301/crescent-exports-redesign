@@ -1,0 +1,42 @@
+$titlesize: 35px;
+$captionsize: 18px;
+$titlecolor: #FFE500;
+$blockpadding: 20px;
+
+.productsswiper {
+    margin-bottom: 30px;
+    width: 100%;
+
+    .productspics {
+        img {
+            width: 80%;
+        }
+    }
+}
+
+.productpageheadings{
+    h1{
+        color: $titlecolor;
+        font-size: $titlesize;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .productpageheadings{
+        h1{
+            font-size: 26px;
+        }
+    }
+
+    .productsswiper {
+    
+        .productspics {
+            img {
+                width: 90%;
+            }
+        }
+    }
+}
