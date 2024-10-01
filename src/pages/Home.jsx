@@ -48,8 +48,7 @@ const Home = () => {
         <p>In 2019, We started a new company 'Crescent Export' in which we export these storage items.</p>
         <p>We deliver high quality ,eco friendly , sustainable and affordable products on time.</p>
         <p>Our main motive is to keep our customers happy.</p>
-        <div className="enquirebutton">
-          <motion.a whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} href="" target='_top'>ENQUIRE</motion.a></div>
+        {/* <div className="enquirebutton"><motion.a whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} href="" target='_top'>ENQUIRE</motion.a></div> */}
       </motion.div>
 
       <div className="homeproducts">
