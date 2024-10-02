@@ -55,13 +55,13 @@ const About = () => {
       </motion.div>
 
       <div className="WhyChooseUs">
-        <motion.h1 initial={{ scale: 0.9 }} whileInView={{ scale: 1 }} transition={{ duration: 1 }}>Why Choose Us</ motion.h1>
-        <motion.div
-          className='aboutimages'
-          initial={{ translateX: -200 }}
-          whileInView={{ translateX: 0 }}
-          exit={{ translateX: -200 }}
-          transition={{ duration: 1 }}
+        <motion.h1 initial={{scale: 0.9}} whileInView={{scale: 1}} transition={{duration: 1}}>Why Choose Us</ motion.h1>
+        <motion.div 
+        className='aboutimages'
+        initial={{translateX: -200}}
+        whileInView={{translateX: 0}}
+        exit={{translateX : -200}}
+        transition={{duration: 1}}
         >
           <ImageGallery images={images} />
         </motion.div>
