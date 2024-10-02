@@ -14,7 +14,7 @@ const About = () => {
   const images = [
     "https://i.postimg.cc/fLDx6r0w/1.jpg", 
     "https://i.postimg.cc/JhbNYL06/2.jpg", 
-    "https://i.postimg.cc/v8PWNX8s/3.jpg",
+    "https://i.postimg.cc/qqrrM7xG/hs4u2cfp.png",
     "https://i.postimg.cc/GhHkwY9s/4.jpg",
   ];
   // const images = [
