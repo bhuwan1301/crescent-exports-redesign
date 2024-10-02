@@ -12,7 +12,7 @@ const ImageGallery = ({ images }) => {
         setSelectedImage(null);
     };
     return (
-        <div>
+        <div className='aboutimages'>
         <div className="gallery">
             {images.map((image, index) => (
                 <img key={index} src={image} alt={`Image ${index + 1}`} onClick={() => handleImageClick(image)}/>
