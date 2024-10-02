@@ -8,6 +8,7 @@ import {
   FaPhone
 } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import './Footer.scss';
 
 
 const Footer = () => {
@@ -21,10 +22,10 @@ const Footer = () => {
                 <h1 className="text-5xl font-extrabold text-gray-900 dark:text-white sm:text-4xl sr-only">
                   Crescent Export
                 </h1>
-                <img src={Logo} alt="logo" className="w-24 h-auto" />
+                <img id="footerlogo" src={Logo} alt="logo" className="w-24 h-auto" />
               </div>
 
-              <p className="text-center lg:text-left  mt-4  text-gray-500 dark:text-gray-400">
+              <p id="footerpara1" className="text-center lg:text-left  mt-4  text-gray-500 dark:text-gray-400">
                 We are a team of passionate people committed to enhancing lives
                 by creating exceptional products and customer experiences, built
                 on a foundation of respect and service.

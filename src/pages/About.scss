@@ -39,6 +39,12 @@ $blockpadding: 20px;
     width: 50%;
     margin: 0 auto 2%;
   }
+  img {
+    max-width: 50%;
+    border-radius: $titlesize;
+    height: fit-content;
+    margin: auto;
+  }
 
   .AboutCrescentexportcontent {
     display: flex;
@@ -51,13 +57,7 @@ $blockpadding: 20px;
       margin-left: 5%;
     }
 
-    img {
-      flex: 1;
-      max-width: 50%;
-      border-radius: $titlesize;
-      height: fit-content;
-      margin: auto;
-    }
+    
 
   }
 }
@@ -89,6 +89,7 @@ $blockpadding: 20px;
 // medium
 @media (max-width: 768px) {
   .Aboutintro {
+    width: 95%;
     video {
       width: 100%;
     }
@@ -103,15 +104,22 @@ $blockpadding: 20px;
       text-align: center;
       font-size: 26px;
     }
+    img{
+      width: 95%;
+      margin: auto;
+      max-width: 100%;
+    }
 
     .AboutCrescentexportcontent{
       display: block;
 
       p {
         width: 100%;
-        text-align: center;
+        text-align: start;
         font-size: 16px;
       }
+
+      
     }
 
   }
@@ -123,6 +131,7 @@ $blockpadding: 20px;
 
     p {
       font-size: 16px;
+      text-align: start;
     }
   }
 }

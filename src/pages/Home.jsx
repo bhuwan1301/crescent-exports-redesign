@@ -1,6 +1,5 @@
 import './home.scss'
 
-import Logo from "@/assets/images/logo.jpg";
 import Pic1 from "@/assets/images/1.jpg";
 
 import { motion } from "framer-motion"
@@ -66,7 +65,7 @@ const Home = () => {
           },
           // When the screen width is <= 759px, use this setting
           0: {
-            slidesPerView: 2, // Number of slides per view for smaller screens
+            slidesPerView: 1, // Number of slides per view for smaller screens
           },
         }}
         onSlideChange={() => console.log('slide change')}
