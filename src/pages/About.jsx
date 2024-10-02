@@ -63,8 +63,8 @@ const About = () => {
         exit={{translateX : -200}}
         transition={{duration: 1}}
         >
-          <ImageGallery images={images} />
         </motion.div>
+        <ImageGallery images={images} />
         <motion.p
           initial={{ scale: 0.9 }}
           whileInView={{ scale: 1 }}
