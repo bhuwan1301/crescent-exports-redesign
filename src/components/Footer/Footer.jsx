@@ -55,7 +55,7 @@ const Footer = () => {
                 </Box>
 
                 <Box display="flex" alignItems="center" fontSize="2vw" style={{ marginRight: 8, marginTop: 20 }}>
-                  <Mail style={{marginRight:8}} />
+                  <Mail size="20px" style={{marginRight:8}} />
                   <Typography variant="body1">
                     <a href="mailto:info@crescentexports.com ">
                       info@crescentexports.com
@@ -64,7 +64,7 @@ const Footer = () => {
                 </Box>
 
                 <Box display="flex" alignItems="center" fontSize="2vw" style={{ marginRight: 8, marginTop: 20 }}>
-                  <Mail style={{marginRight:8}} />
+                  <Mail size="20px" style={{marginRight:8}} />
                   <Typography variant="body1">
                     <a href="mailto:crescentexport9@gmail.com ">
                       crescentexport9@gmail.com
