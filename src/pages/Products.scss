@@ -4,7 +4,6 @@ $titlecolor: #FFE500;
 $blockpadding: 20px;
 
 .tiebacks{
-    // border: 2px solid white;
     padding: $blockpadding;
 
     h1{
@@ -15,20 +14,22 @@ $blockpadding: 20px;
     }
 
     .products{
-        // border: 2px solid red;
         margin: auto;
         padding: $blockpadding;
         display: flex;
         flex-wrap: wrap;
 
         .product{
+            background-color: rgba(255, 255, 255, 0.83);
             display: flex;
             flex-direction: column;
+            justify-content: space-between;
             border: 1px solid white;
             padding: $blockpadding;
             margin: auto;
             margin-bottom: 10px;
-            width: 25%;
+            width: 30%;
+            height: 63vh;
             
             .productswiper{
                 width: 99%;
@@ -36,13 +37,12 @@ $blockpadding: 20px;
             }
 
             .productcontent{
-                // border: 2px solid lightblue;
-                // width: 50%;
                 text-align: center;
 
                 h2{
-                    font-size: 14px;
-                    color: lime;
+                    font-size: 16px;
+                    color: black;
+                    font-weight: 700;
                 }
             }
         }
@@ -58,7 +58,14 @@ $blockpadding: 20px;
             flex-wrap: wrap;
     
             .product{
-                width: 100%;
+                width: 49%;
+                height: 26vh;
+                
+                .productcontent{
+                    h2{
+                        font-size: 14px;
+                    }
+                }
             }
         }
     }
