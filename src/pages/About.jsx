@@ -1,12 +1,8 @@
 import './About.scss'
-import Logo from "@/assets/images/logo.jpg";
 import ImageGallery from '@/components/ImageGallery';
 import '@/components/ImageGallery.jsx';
 import AboutVideo from "@/assets/images/Video2.mp4";
 import image1 from "@/assets/images/1.jpg";
-import image2 from "@/assets/images/2.jpg";
-import image3 from "@/assets/images/3.jpg";
-import image4 from "@/assets/images/4.jpg";
 import { motion } from "framer-motion"
 import { useState } from 'react';
 
@@ -17,12 +13,6 @@ const About = () => {
     "https://i.postimg.cc/qqrrM7xG/hs4u2cfp.png",
     "https://i.postimg.cc/GhHkwY9s/4.jpg",
   ];
-  // const images = [
-  //   image1, 
-  //   image2, 
-  //   image3,
-  //   image4,
-  // ];
 
   const [direction, setDirection] = useState(-100)
 
