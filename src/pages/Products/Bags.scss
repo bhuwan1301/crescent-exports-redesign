@@ -3,7 +3,7 @@ $captionsize: 18px;
 $titlecolor: #FFE500;
 $blockpadding: 15px;
 
-.tiebacks{
+.bags{
     padding: $blockpadding;
 
     h1{
@@ -24,29 +24,37 @@ $blockpadding: 15px;
             background-color: rgba(255, 255, 255, 0.83);
             border-radius: 20px;
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
             justify-content: space-evenly;
             border: 1px solid white;
             padding: $blockpadding;
             margin: auto;
             margin-bottom: 10px;
             width: 30%;
-            height: 67vh;
+            // height: 67vh;
             
             .productswiper{
-                width: 95%;
+                width: 63%;
                 margin-right: 10px;
                 border-radius: 20px;
             }
 
             .productcontent{
+                width: 37%;
                 text-align: center;
                 text-overflow: ellipsis;
-                
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
 
                 h2{
                     font-size: 16px;
                     color: black;
+                    font-weight: 700;
+                }
+                h3{
+                    font-size: 16px;
+                    color: darkorange;
                     font-weight: 700;
                 }
             }
@@ -55,20 +63,25 @@ $blockpadding: 15px;
 }
 
 @media (max-width: 768px) {
-    .tiebacks{
+    .bags{
 
     
         .products{
-            display: flex;
-            flex-wrap: wrap;
     
             .product{
                 padding: 5px;
-                width: 49%;
-                height: 30vh;
+                width: 100%;
+
+                .productswiper{
+                    width: 50%;
+                }
                 
                 .productcontent{
+                    width: 50%;
                     h2{
+                        font-size: 11px;
+                    }
+                    h3{
                         font-size: 11px;
                     }
                 }

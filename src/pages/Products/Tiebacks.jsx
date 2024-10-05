@@ -34,7 +34,7 @@ const commonSwiperSettings = {
 
 const Tiebacks = () => {
   return (
-    <div className="tiebacks">
+    <div className="tiebacks" id='tiebackssection'>
       <h1>Tiebacks</h1>
 
       <div className="products">
