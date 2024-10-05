@@ -35,27 +35,27 @@ const Footer = () => {
             <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 sm:col-span-2 md:col-span-2 lg:col-span-2 lg:grid-cols-2 justify-center">
               <div>
                 <Box display="flex" alignItems="center" fontSize="2vw" style={{ marginRight: 8, marginTop: 20 }}>
-                  <FaMobile size="20px" style={{marginRight:8}} />
+                  <FaMobile size="20px" style={{marginRight:8, color:"white"}} />
                   <Typography variant="body1">
                     <a href="tel:+91 9810326719">+91 9810326719</a>
                   </Typography>
                 </Box>
                 <Box display="flex" alignItems="center" fontSize="2vw" style={{ marginRight: 8, marginTop: 20 }}>
-                  <FaMobile size="20px" style={{marginRight:8}} />
+                  <FaMobile size="20px" style={{marginRight:8, color:"white"}} />
                   <Typography variant="body1">
                     <a href="tel:+91 9953212214">+91 9953212214</a>
                   </Typography>
                 </Box>
 
                 <Box display="flex" alignItems="center" fontSize="2vw"style={{ marginRight: 8, marginTop: 20 }}>
-                  <FaPhone size="20px" style={{marginRight:8}} />
+                  <FaPhone size="20px" style={{marginRight:8, color:"white"}} />
                   <Typography variant="body1">
                     <a href="tel:011 28525250">011 28525250</a>
                   </Typography>
                 </Box>
 
                 <Box display="flex" alignItems="center" fontSize="2vw" style={{ marginRight: 8, marginTop: 20 }}>
-                  <Mail size="20px" style={{marginRight:8}} />
+                  <Mail size="20px" style={{marginRight:8, color:"white"}} />
                   <Typography variant="body1">
                     <a href="mailto:info@crescentexports.com ">
                       info@crescentexports.com
@@ -64,7 +64,7 @@ const Footer = () => {
                 </Box>
 
                 <Box display="flex" alignItems="center" fontSize="2vw" style={{marginTop: 20 }}>
-                  <Mail size="20px" style={{marginRight:8}} />
+                  <Mail size="20px" style={{marginRight:8, color:"white"}} />
                   <Typography variant="body1">
                     <a href="mailto:crescentexport9@gmail.com ">
                       crescentexport9@gmail.com
