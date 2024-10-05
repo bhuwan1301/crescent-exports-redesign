@@ -1,6 +1,5 @@
 import 'swiper/css';
 import 'swiper/swiper-bundle.css';
-import './Products.scss';
 import Tiebacks from './Products/Tiebacks';
 
 const Products = () => {
