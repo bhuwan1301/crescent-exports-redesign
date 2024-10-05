@@ -8,7 +8,7 @@ import { Helmet } from "react-helmet-async";
 import emailjs from "@emailjs/browser";
 import { Loader2 } from "lucide-react";
 
-import { motion } from "framer-motion"
+import { color, motion } from "framer-motion"
 
 import { useState } from "react";
 import { zodResolver } from "@hookform/resolvers/zod";
@@ -167,7 +167,7 @@ export default function Contact() {
                     name="name"
                     render={() => (
                       <FormItem>
-                        <FormLabel>
+                        <FormLabel style={{color:"white"}}>
                           Name
                           <span className="text-destructive">*</span>
                         </FormLabel>
@@ -187,7 +187,7 @@ export default function Contact() {
                     name="email"
                     render={() => (
                       <FormItem>
-                        <FormLabel>
+                        <FormLabel style={{color:"white"}}>
                           Email
                           <span className="text-destructive">*</span>
                         </FormLabel>
@@ -208,7 +208,7 @@ export default function Contact() {
                     name="phone"
                     render={() => (
                       <FormItem>
-                        <FormLabel>Phone</FormLabel>
+                        <FormLabel style={{color:"white"}}>Phone</FormLabel>
                         <FormControl>
                           <Input
                             type="tel"
@@ -226,7 +226,7 @@ export default function Contact() {
                     name="message"
                     render={() => (
                       <FormItem>
-                        <FormLabel>
+                        <FormLabel style={{color:"white"}}>
                           Message
                           <span className="text-destructive">*</span>
                         </FormLabel>
