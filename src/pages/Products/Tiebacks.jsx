@@ -1,4 +1,4 @@
-import '../Products.scss';
+import './Tiebacks.scss';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Scrollbar, A11y, EffectCreative } from 'swiper/modules';
 import 'swiper/css';
