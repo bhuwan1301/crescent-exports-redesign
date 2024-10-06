@@ -8,12 +8,7 @@ const Products = () => {
 
   return (
     <div>
-      <div className="linkstoproducts">
 
-        <a href="#bagssection">BAGS</a>
-        <a href="#tiebackssection">TIEBAKCKS</a>
-
-      </div>
 
       <Bags />
       <Tiebacks />
