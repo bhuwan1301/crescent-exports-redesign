@@ -3,6 +3,10 @@ $captionsize: 18px;
 $titlecolor: #FFE500;
 $blockpadding: 15px;
 
+// body{
+//     background-image: url('../assets/images/background.jpg');
+// }
+
 .linkstoproducts{
     padding: $blockpadding;
     display: flex;
@@ -24,7 +28,7 @@ $blockpadding: 15px;
     flex: 1;
     min-width: 150px; 
     padding: 10px 20px;
-    background-color: #ffffff1e;
+    background-color: #ffffff4b;
     color: white;
     text-align: center;
     text-decoration: none;
