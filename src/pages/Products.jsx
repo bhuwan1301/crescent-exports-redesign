@@ -9,10 +9,10 @@ const Products = () => {
   return (
     <div>
       <div className="linkstoproducts">
-
-        <a href="#bagssection">BAGS</a>
-        <a href="#tiebackssection">TIEBAKCKS</a>
-
+        <div className="link-button-row">
+          <a href="#bagssection" className="link-button">BAGS</a>
+          <a href="#tiebackssection" className="link-button">TIEBACKS</a>
+        </div>
       </div>
 
       <Bags />
