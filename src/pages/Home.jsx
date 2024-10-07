@@ -41,12 +41,12 @@ const Home = () => {
       >
         <h1>Our Story</h1>
         <p>
-          In 1990, We established a company named as 'Shaktirugs', where we domestically supplied rugs. Later, we started exporting to other countries mainly USA.
+        In 1990, we established our company, Shaktirugs, specializing in the domestic supply of rugs. Over the years, we expanded our operations to include exports to various countries, primarily the USA.
         </p>
-        <p>Since 2005, Our company has been manufacturing and exporting multiple categories of storage items like Crunch cans, Bags, Wall and Pocket hangings etc. We export to USA, Norway, Canada, Sweden and other western & European countries.</p>
-        <p>In 2019, We started a new company 'Crescent Export' in which we export these storage items.</p>
-        <p>We deliver high quality ,eco friendly , sustainable and affordable products on time.</p>
-        <p>Our main motive is to keep our customers happy.</p>
+        <p>Since 2005, our company has diversified to manufacture and export a wide range of storage items, including Crunch cans, bags, and wall and pocket hangings. We proudly serve clients in the USA, Norway, Canada, Sweden, and other Western and European markets.</p>
+        <p>In 2019, we launched a new venture, Crescent Export, dedicated to the export of our storage solutions.</p>
+        <p>We are committed to delivering high-quality, eco-friendly, sustainable, and affordable products, ensuring timely delivery and customer satisfaction as our top priority.</p>
+        {/* <p>Our main motive is to keep our customers happy.</p> */}
         {/* <div className="enquirebutton"><motion.a whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} href="" target='_top'>ENQUIRE</motion.a></div> */}
       </motion.div>
 
