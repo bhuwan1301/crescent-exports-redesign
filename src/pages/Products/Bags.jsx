@@ -41,10 +41,10 @@ const Bags = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/W4VRmbk9/Picture1.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/W4VRmbk9/Picture1.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/zGKZRRVb/Picture2.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/zGKZRRVb/Picture2.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/jd6BxY9P/Picture36.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/jd6BxY9P/Picture36.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/bwzWdFcM/Picture37.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/bwzWdFcM/Picture37.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/zsontjrbt5crrtxvd6v0.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/zsontjrbt5crrtxvd6v0.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/w9aju2l9sshvfclgjhds.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/w9aju2l9sshvfclgjhds.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401449/taxzqca6fu11hmwagqpm.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401449/taxzqca6fu11hmwagqpm.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401449/sj17h1jf3mkhgoisrupc.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401449/sj17h1jf3mkhgoisrupc.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -56,12 +56,12 @@ const Bags = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/mryvmf3T/Picture3.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/mryvmf3T/Picture3.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/RFCj8sGK/Picture4.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/RFCj8sGK/Picture4.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/B6hdGTwy/Picture5.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/B6hdGTwy/Picture5.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/2yVgj1s5/Picture6.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/2yVgj1s5/Picture6.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/PJ99CtHQ/Picture7.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/PJ99CtHQ/Picture7.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/WbqxQJmW/Picture8.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/WbqxQJmW/Picture8.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401451/bnroniheqgp0h9esjt3f.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401451/bnroniheqgp0h9esjt3f.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/lhay6lm973ji1nmu8cad.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/lhay6lm973ji1nmu8cad.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/gymjkmyxa8vwj1nk5d5z.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/gymjkmyxa8vwj1nk5d5z.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/mzs14hf7xnxjp5le3o4b.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/mzs14hf7xnxjp5le3o4b.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/exjipuh0tsqvvwsqcw6c.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/exjipuh0tsqvvwsqcw6c.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/fsxpsud6139sht0cki1f.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/fsxpsud6139sht0cki1f.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -73,8 +73,8 @@ const Bags = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/G35Z7jDT/Picture9.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/G35Z7jDT/Picture9.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/BnWRsQMq/Picture10.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/BnWRsQMq/Picture10.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/enuh02akdziqq7zgv7p3.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/enuh02akdziqq7zgv7p3.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/yzqph3knzi89s5fxfewy.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/yzqph3knzi89s5fxfewy.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -86,8 +86,8 @@ const Bags = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/fRxpbnrY/Picture11.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/fRxpbnrY/Picture11.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/fbDFt2Gp/Picture12.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/fbDFt2Gp/Picture12.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401445/lcombpz48c9fefqz26i3.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401445/lcombpz48c9fefqz26i3.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/h20to2pribqfjfvkdija.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/h20to2pribqfjfvkdija.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -99,8 +99,8 @@ const Bags = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/KYfWn7Fz/Picture13.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/KYfWn7Fz/Picture13.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/wvBGFtTk/Picture14.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/wvBGFtTk/Picture14.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/lqjjtn1xsl6ordp5joog.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/lqjjtn1xsl6ordp5joog.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/z9wc4vekoxclu4ee1w6d.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/z9wc4vekoxclu4ee1w6d.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -112,8 +112,8 @@ const Bags = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/NF9PqWX9/Picture15.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/NF9PqWX9/Picture15.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/cCpksX7D/Picture16.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/cCpksX7D/Picture16.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/mqxfmepcly3xjbcrdii2.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/mqxfmepcly3xjbcrdii2.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/ganxkj8ajxo4azzkkkmz.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/ganxkj8ajxo4azzkkkmz.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -125,12 +125,12 @@ const Bags = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/C1662FRp/Picture17.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/C1662FRp/Picture17.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/sfMVgx9S/Picture18.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/sfMVgx9S/Picture18.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/W3Cckm6Z/Picture25.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/W3Cckm6Z/Picture25.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/kGS3FVfp/Picture26.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/kGS3FVfp/Picture26.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/Znp2vGqk/Picture34.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Znp2vGqk/Picture34.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/c1nVznBD/Picture35.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/c1nVznBD/Picture35.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/sxl4adhskquisohd7zfc.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/sxl4adhskquisohd7zfc.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/uz6xcajcw2rky3jlvya9.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/uz6xcajcw2rky3jlvya9.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/kio2ff8vgu4zjco4e9wj.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/kio2ff8vgu4zjco4e9wj.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/dauryct9rryt52uyc7u4.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/dauryct9rryt52uyc7u4.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401448/lwuljf1dld3vcus3qjoo.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401448/lwuljf1dld3vcus3qjoo.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401449/f1sytblhg4re9sygp0ja.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401449/f1sytblhg4re9sygp0ja.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -142,7 +142,7 @@ const Bags = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/h4NKznpY/Picture19.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/h4NKznpY/Picture19.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/aeyma064x7zikyclsmaq.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401446/aeyma064x7zikyclsmaq.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -154,9 +154,9 @@ const Bags = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/VLMmXhhk/Picture20.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/VLMmXhhk/Picture20.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/T3Jx4Df8/Picture22.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/T3Jx4Df8/Picture22.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/qvT0wLfX/Picture21.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/qvT0wLfX/Picture21.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401451/ah38ydwiimhnu2we3cn6.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401451/ah38ydwiimhnu2we3cn6.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401452/ywh8xq7cgiwvv3tsbvzw.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401452/ywh8xq7cgiwvv3tsbvzw.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401451/ovekhintktkbtbazorcr.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401451/ovekhintktkbtbazorcr.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -167,8 +167,8 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/W4pVL11d/Picture23.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/W4pVL11d/Picture23.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/0QbqjXmx/Picture24.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/0QbqjXmx/Picture24.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401452/rrtvxm7zk3tdpmfjdesw.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401452/rrtvxm7zk3tdpmfjdesw.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401452/askvvrypcmeh76uvmjeq.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401452/askvvrypcmeh76uvmjeq.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -179,8 +179,8 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/tgvLKdcc/Picture31.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/tgvLKdcc/Picture31.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/LXrGX92B/Picture32.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/LXrGX92B/Picture32.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/umwor9iqk0yi6uapi3np.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401447/umwor9iqk0yi6uapi3np.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401448/jnnyylvbhrzyqseljnrs.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401448/jnnyylvbhrzyqseljnrs.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -191,7 +191,7 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/LXqr2YK8/Picture33.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/LXqr2YK8/Picture33.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401448/anyoqqj5gp9lfnpikeej.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401448/anyoqqj5gp9lfnpikeej.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -202,10 +202,10 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/Z5VgNFJq/Picture38.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Z5VgNFJq/Picture38.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/25yt7b57/Picture39.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/25yt7b57/Picture39.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/fbPr2ztn/Picture40.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/fbPr2ztn/Picture40.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/cH85PpwK/Picture41.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/cH85PpwK/Picture41.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/xkdiwrnrunaupv7c8imh.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/xkdiwrnrunaupv7c8imh.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/l9se9jikx7jy0wsddluz.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/l9se9jikx7jy0wsddluz.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/qgejtu4ypdaitn5y08ug.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/qgejtu4ypdaitn5y08ug.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/ts7bxc8bnz8vdlkgqgpj.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401450/ts7bxc8bnz8vdlkgqgpj.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -216,9 +216,9 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/hvW3n212/Picture42.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/hvW3n212/Picture42.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/SR61xcZk/Picture43.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/SR61xcZk/Picture43.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/J7Z2xWRv/Picture44.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/J7Z2xWRv/Picture44.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/koq3txipfgdchdjipk92.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/koq3txipfgdchdjipk92.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/fj1cck4fxlrgktz0sdnb.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/fj1cck4fxlrgktz0sdnb.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/wcm0edczmdn73hz8p4j7.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401457/wcm0edczmdn73hz8p4j7.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -229,8 +229,8 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/15SYYYtt/Picture45.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/15SYYYtt/Picture45.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/VLFHyBrF/Picture46.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/VLFHyBrF/Picture46.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401458/hlep2w8yxaygpuwjvtdy.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401458/hlep2w8yxaygpuwjvtdy.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401458/nmh8rmtekqgjigty9pnz.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401458/nmh8rmtekqgjigty9pnz.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -241,14 +241,14 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/t4Cv9ZFG/Picture47.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/t4Cv9ZFG/Picture47.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/L8CC59VY/Picture48.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/L8CC59VY/Picture48.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/ZqWfyGff/Picture49.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/ZqWfyGff/Picture49.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/VN2K9Kpz/Picture50.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/VN2K9Kpz/Picture50.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/d1d458cr/Picture51.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/d1d458cr/Picture51.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/7hkXdfqc/Picture52.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/7hkXdfqc/Picture52.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/3NF9TYRw/Picture53.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/3NF9TYRw/Picture53.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/L6vvQ9wC/Picture54.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/L6vvQ9wC/Picture54.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401458/zonp9kisx9uw9zvkugnk.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401458/zonp9kisx9uw9zvkugnk.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401459/ppk2yotyuujca39hl251.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401459/ppk2yotyuujca39hl251.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401459/htxw9qzmtasvv1d6nenv.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401459/htxw9qzmtasvv1d6nenv.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401459/t9dt8pfgpvfsiumhdsfq.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401459/t9dt8pfgpvfsiumhdsfq.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401460/wor5exzhijfmvosghcy7.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401460/wor5exzhijfmvosghcy7.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401460/jqxm37whvuuh7nisr53h.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401460/jqxm37whvuuh7nisr53h.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401460/c0xpfyqriqkri3lq2im5.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401460/c0xpfyqriqkri3lq2im5.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401454/hgebtbrk5n4nbtlci7vr.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401454/hgebtbrk5n4nbtlci7vr.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -259,8 +259,8 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/v8r09Lzd/Picture55.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/v8r09Lzd/Picture55.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/xT9tPJxN/Picture56.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/xT9tPJxN/Picture56.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401454/tmgnienh50qzbhyhbjek.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401454/tmgnienh50qzbhyhbjek.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401454/q9pq1vbm2r9bhrroyy68.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401454/q9pq1vbm2r9bhrroyy68.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -271,8 +271,8 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/RZFdkrzM/Picture57.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/RZFdkrzM/Picture57.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/ht5sgCSV/Picture58.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/ht5sgCSV/Picture58.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401454/bonlbfwjyo0wral7yfsa.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401454/bonlbfwjyo0wral7yfsa.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401455/rztiokb6afzf6n6ux3rq.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401455/rztiokb6afzf6n6ux3rq.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -283,10 +283,10 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/BvPgvx6k/Picture59.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/BvPgvx6k/Picture59.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/pTNB5p5T/Picture60.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/pTNB5p5T/Picture60.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/qR8xs42G/Picture61.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/qR8xs42G/Picture61.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/qqwcFwbh/Picture62.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/qqwcFwbh/Picture62.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401463/peu9fm9wzelr83uan10z.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401463/peu9fm9wzelr83uan10z.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401463/e1pnavwkwjertvjmywdp.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401463/e1pnavwkwjertvjmywdp.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401456/piqzhpfipgy0th4pkgi8.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401456/piqzhpfipgy0th4pkgi8.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401456/uggdc3pwb7xymab1cpps.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401456/uggdc3pwb7xymab1cpps.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -297,8 +297,8 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/v8tvD8YY/Picture63.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/v8tvD8YY/Picture63.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/sgvPnppx/Picture64.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/sgvPnppx/Picture64.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401463/lrga6hynpnxahzbgl2y9.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401463/lrga6hynpnxahzbgl2y9.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401463/dkznwup5drh7uiy8gk8t.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401463/dkznwup5drh7uiy8gk8t.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -309,10 +309,10 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/Ss3jxMnT/Picture65.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Ss3jxMnT/Picture65.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/ZRCCmc5v/Picture66.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/ZRCCmc5v/Picture66.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/bvYZC8XT/Picture67.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/bvYZC8XT/Picture67.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/DzC8RDnK/Picture68.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/DzC8RDnK/Picture68.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401464/y3309b9gwqsax80lkxri.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401464/y3309b9gwqsax80lkxri.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401464/zyeb0tuay1lxeldttkox.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401464/zyeb0tuay1lxeldttkox.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401465/md5ppqocnigltggvw6pp.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401465/md5ppqocnigltggvw6pp.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401464/xmu3w2bearjgkafiibo6.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401464/xmu3w2bearjgkafiibo6.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -323,9 +323,9 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/8cvcJzW1/Picture69.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/8cvcJzW1/Picture69.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/kMRBhfHk/Picture70.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/kMRBhfHk/Picture70.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/Nfh5hRqL/Picture71.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Nfh5hRqL/Picture71.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401465/rzw98mu8jls6akmtx44e.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401465/rzw98mu8jls6akmtx44e.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401465/qdmrzcmza6cx2ygicqqq.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401465/qdmrzcmza6cx2ygicqqq.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401465/scchlifbqgh2s3dillkc.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401465/scchlifbqgh2s3dillkc.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -336,9 +336,9 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/Nf1LQLBD/Picture72.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Nf1LQLBD/Picture72.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/FHNzzmK4/Picture73.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/FHNzzmK4/Picture73.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/nh2zQ5sQ/Picture74.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/nh2zQ5sQ/Picture74.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/lutcbsk9ywq02t8prajf.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/lutcbsk9ywq02t8prajf.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/cfmwfsusrpopb4nlaxm4.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/cfmwfsusrpopb4nlaxm4.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/l8ln2fozcxuayb7eugu5.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/l8ln2fozcxuayb7eugu5.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -349,8 +349,7 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/VNNN9RMZ/Picture75.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/VNNN9RMZ/Picture75.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/25XS0Z7k/Picture76.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/25XS0Z7k/Picture76.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="hhttps://res.cloudinary.com/dhk9t1bus/image/upload/v1728401461/z6ay3bz4q4oftn333dnc.jpg" target='_blank'><img loading="lazy" src="hhttps://res.cloudinary.com/dhk9t1bus/image/upload/v1728401461/z6ay3bz4q4oftn333dnc.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -361,8 +360,8 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/XJG7mYsw/Picture77.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/XJG7mYsw/Picture77.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/zBsXrYQ4/Picture78.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/zBsXrYQ4/Picture78.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/yasbuknclk13kxukliko.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/yasbuknclk13kxukliko.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/rn7rjwscyircxticbugr.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401462/rn7rjwscyircxticbugr.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -373,7 +372,7 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/Gtv33Swt/Picture79.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Gtv33Swt/Picture79.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/bd5lj2jvsn9flkbyhqup.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/bd5lj2jvsn9flkbyhqup.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -384,7 +383,7 @@ const Bags = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/mZ9gShz4/Picture80.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/mZ9gShz4/Picture80.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/ysnkz3md2zyg3t9mcxbm.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728401466/ysnkz3md2zyg3t9mcxbm.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">

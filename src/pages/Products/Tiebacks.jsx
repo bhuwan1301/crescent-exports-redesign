@@ -41,8 +41,8 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/9FYvXwLm/Picture4.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/9FYvXwLm/Picture4.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/m2svGyNp/Picture5.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/m2svGyNp/Picture5.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405332/Picture4_bjfuol.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405332/Picture4_bjfuol.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture5_ai0llr.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture5_ai0llr.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -53,7 +53,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/dQdbXxdT/Picture6.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/dQdbXxdT/Picture6.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture6_shg0rh.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture6_shg0rh.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -64,7 +64,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/Jz7Ss7Fb/Picture7.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Jz7Ss7Fb/Picture7.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture7_nmnpox.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture7_nmnpox.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -74,7 +74,7 @@ const Tiebacks = () => {
         </div>
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/XY2mdSMt/Picture8.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/XY2mdSMt/Picture8.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture8_etqkve.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture8_etqkve.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -85,7 +85,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/9frSB8C0/Picture9.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/9frSB8C0/Picture9.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture9_jdizlr.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405333/Picture9_jdizlr.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -96,7 +96,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/mrJnpYgw/Picture10.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/mrJnpYgw/Picture10.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405291/Picture10_pyfkao.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405291/Picture10_pyfkao.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -107,7 +107,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/mD95vPcG/Picture11.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/mD95vPcG/Picture11.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405291/Picture11_ktew0q.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405291/Picture11_ktew0q.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -118,20 +118,20 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/qqd54pn6/Picture12.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/qqd54pn6/Picture12.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/fWxP50nc/Picture13.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/fWxP50nc/Picture13.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/76rVTmLp/Picture30.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/76rVTmLp/Picture30.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/Jn3Q3ZDt/Picture31.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Jn3Q3ZDt/Picture31.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/brz9mrkg/Picture32.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/brz9mrkg/Picture32.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/VsRRd9PV/Picture33.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/VsRRd9PV/Picture33.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/PrVQMtxb/Picture34.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/PrVQMtxb/Picture34.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/Jzyc69Df/Picture35.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Jzyc69Df/Picture35.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/x1WGWtLc/Picture36.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/x1WGWtLc/Picture36.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/YSYNkYx8/Picture37.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/YSYNkYx8/Picture37.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/MKfvhx5m/Picture40.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/MKfvhx5m/Picture40.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/FRqhZdM5/Picture41.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/FRqhZdM5/Picture41.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/GtydS3RB/Picture42.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/GtydS3RB/Picture42.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/hPMcyYW1/Picture52.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/hPMcyYW1/Picture52.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405292/Picture12_zbshk8.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405292/Picture12_zbshk8.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405292/Picture13_rzw7rk.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405292/Picture13_rzw7rk.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture30_ioj2we.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture30_ioj2we.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture31_ghdlvr.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture31_ghdlvr.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405284/Picture32_bqaapj.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405284/Picture32_bqaapj.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405291/Picture33_vstlev.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405291/Picture33_vstlev.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405291/Picture34_bdte1c.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405291/Picture34_bdte1c.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405334/Picture35_wrftbx.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405334/Picture35_wrftbx.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405339/Picture36_afysjh.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405339/Picture36_afysjh.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405339/Picture37_abwmi5.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405339/Picture37_abwmi5.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405340/Picture40_m0unbd.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405340/Picture40_m0unbd.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405340/Picture41_zjb5uj.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405340/Picture41_zjb5uj.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405340/Picture42_m2iyzo.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405340/Picture42_m2iyzo.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405332/Picture52_ahmk56.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405332/Picture52_ahmk56.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -142,8 +142,8 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/SR7tKH7T/Picture13-1.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/SR7tKH7T/Picture13-1.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/ncpPWcp6/Picture15.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/ncpPWcp6/Picture15.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405292/Picture13.1_avmy7u.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405292/Picture13.1_avmy7u.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405306/Picture15_kgdnkm.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405306/Picture15_kgdnkm.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -154,8 +154,8 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/xT54VDdq/Picture16.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/xT54VDdq/Picture16.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/cLJ5s9Kh/Picture17.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/cLJ5s9Kh/Picture17.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405306/Picture16_fyo1xg.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405306/Picture16_fyo1xg.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405307/Picture17_teymbn.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405307/Picture17_teymbn.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -166,7 +166,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/Mpr3X7VS/Picture18.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/Mpr3X7VS/Picture18.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405252/Picture18_mjyddr.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405252/Picture18_mjyddr.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -177,7 +177,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/nLydGn3S/Picture19.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/nLydGn3S/Picture19.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405253/Picture19_j62cgm.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405253/Picture19_j62cgm.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -188,7 +188,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/FKdWSYVJ/Picture20.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/FKdWSYVJ/Picture20.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405253/Picture20_gxaixh.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405253/Picture20_gxaixh.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -199,7 +199,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/sX5Tnb8j/Picture21.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/sX5Tnb8j/Picture21.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405254/Picture21_v9a8ru.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405254/Picture21_v9a8ru.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -210,7 +210,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/vTM3C3FW/Picture22.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/vTM3C3FW/Picture22.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405253/Picture22_u4zsvr.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405253/Picture22_u4zsvr.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -221,7 +221,7 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/L4ByjKLv/Picture24.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/L4ByjKLv/Picture24.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405254/Picture24_gvdw4y.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405254/Picture24_gvdw4y.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -232,8 +232,8 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/HsY62Ztm/Picture25.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/HsY62Ztm/Picture25.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/2802XQHZ/Picture26.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/2802XQHZ/Picture26.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405258/Picture25_ua5mwf.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405258/Picture25_ua5mwf.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture26_z8bvfv.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture26_z8bvfv.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -244,8 +244,8 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/y85n7VC6/Picture28.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/y85n7VC6/Picture28.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/bvtgJKqx/Picture29.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/bvtgJKqx/Picture29.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture28_rm8x0j.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture28_rm8x0j.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture29_jxva4u.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405259/Picture29_jxva4u.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">
@@ -256,8 +256,8 @@ const Tiebacks = () => {
 
         <div className="product">
           <Swiper {...commonSwiperSettings}>
-            <SwiperSlide><a href="https://i.postimg.cc/dQbyQLLx/Picture45.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/dQbyQLLx/Picture45.jpg" alt="" /></a></SwiperSlide>
-            <SwiperSlide><a href="https://i.postimg.cc/5N8FXbzN/Picture46.jpg" target='_blank'><img loading="lazy" src="https://i.postimg.cc/5N8FXbzN/Picture46.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405310/Picture45_ty1dcy.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405310/Picture45_ty1dcy.jpg" alt="" /></a></SwiperSlide>
+            <SwiperSlide><a href="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405327/Picture46_w82yqr.jpg" target='_blank'><img loading="lazy" src="https://res.cloudinary.com/dhk9t1bus/image/upload/v1728405327/Picture46_w82yqr.jpg" alt="" /></a></SwiperSlide>
           </Swiper>
 
           <div className="productcontent">

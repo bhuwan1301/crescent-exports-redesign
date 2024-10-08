@@ -8,9 +8,9 @@ import { useState } from 'react';
 
 const About = () => {
   const images = [
-    "https://i.postimg.cc/fLDx6r0w/1.jpg", 
-    "https://i.postimg.cc/JhbNYL06/2.jpg", 
-    "https://i.postimg.cc/qqrrM7xG/hs4u2cfp.png",
+    "https://res.cloudinary.com/dhk9t1bus/image/upload/v1728406488/1_c2nuxv.jpg", 
+    "https://res.cloudinary.com/dhk9t1bus/image/upload/v1728406487/2_kedkdl.jpg", 
+    "https://res.cloudinary.com/dhk9t1bus/image/upload/v1728406486/hs4u2cfp_oradhy.png",
     // "https://i.postimg.cc/GhHkwY9s/4.jpg",
   ];
 
